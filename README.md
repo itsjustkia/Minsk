@@ -4,7 +4,9 @@
 
 
 
-##This is a clone minsk compiler changed for Compiler Design course in University of Tehran
+## This is a clone minsk compiler changed for Compiler Design course in University of Tehran
+
+
 mainrepo: https://github.com/terrajobst/minsk
 
 
